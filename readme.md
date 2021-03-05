@@ -1,7 +1,3 @@
-echo "# my-scrpit" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/cz20010217/my-scrpit.git
-git push -u origin main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cz20010217/my-scrpit.git/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cz20010217/my-scrpit.git/HEAD
